@@ -87,4 +87,4 @@ Through this assignment, I practiced:
 
 This project is part of my **60-Day QA Testing Training Journey**, where I am building practical experience in Software Testing and Quality Assurance.
 
-**Day 05 – Amazon Website Manual Testing**
+**Day 01 – Amazon Website Manual Testing**
